@@ -37,7 +37,7 @@ public class calculator {
                         System.out.println("Bölen sıfır olamaz!");
                         break;
                     default:
-                        System.out.print("Bölme Sonucu :" + (n1 / n2) + "  Kalan :" + (n1 % n2));
+                        System.out.print("Bölme Sonucu :" + (n1 / n2) + "\nKalan :" + (n1 % n2));
                         break;
                 }
             default:
